@@ -90,10 +90,6 @@ p, li {
     line-height: 1.6;
 }
 
-.links {
-    image-rendering: pixelated;
-}
-
 a {
     color: #ffb6c1;
     text-decoration: none;
