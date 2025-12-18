@@ -2,7 +2,7 @@
 
 A responsive, accessible personal CV website built with semantic HTML and CSS.
 Designed with a retro, pixel-inspired aesthetic while maintaining professional
-readability and accessibility standards.
+readability and accessibility standards inspired by https://roadmap.sh/projects/single-page-cv. 
 
 ## Overview
 
